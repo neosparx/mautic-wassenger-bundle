@@ -1,5 +1,5 @@
 {
-  "name": "mtcextendee/mautic-wassenger-bundle",
+  "name": "neosparx/mautic-wassenger-bundle",
   "type": "mautic-plugin",
   "require": {
     "mautic/composer-plugin": "^1.0"
