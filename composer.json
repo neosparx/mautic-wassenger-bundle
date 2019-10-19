@@ -5,5 +5,5 @@
     "require": {
         "mautic/composer": "1.0"
     },
-    "minimum-stability": "dev-stable"
+    "minimum-stability": "stable"
 }
