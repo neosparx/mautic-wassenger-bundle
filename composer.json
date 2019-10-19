@@ -1,7 +1,13 @@
 {
-  "name": "neosparx/mautic-wassenger-bundle",
-  "type": "mautic-plugin",
-  "require": {
-    "mautic/composer-plugin": "^1.0"
-  }
+    "name": "neosparx/mautic-wassenger-bundle",
+    "description": "Mautic Wassenger Integration",
+    "type": "mautic-plugin",
+    "require": {
+        "composer/composer": "1.0"
+    },
+    "require-dev": {
+        "composer/composer": "1.0"
+    },
+    "minimum-stability": "stable"
 }
+
