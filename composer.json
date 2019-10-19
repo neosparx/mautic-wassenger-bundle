@@ -3,7 +3,7 @@
     "description": "Mautic Wassenger Integration",
     "type": "mautic-plugin",
     "require": {
-        "mautic/composer": "1.0"
+        "mautic/composer": "^1.0"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
